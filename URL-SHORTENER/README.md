@@ -12,7 +12,7 @@ Source of URL SHORTENER Docs
 
 ### API DOCS
 
-Open the [DOCS](https://github.com/MSanjaySharma/URL-SHORTENER) to try Url Shortener yourself.
+Open the [DOCS](https://msanjaysharma.github.io/URL-SHORTENER) to try Url Shortener yourself.
 
 Contribute to Docs
 
