@@ -1,7 +1,7 @@
 module.exports = {
   title: "Url Shortener",
   tagline: "An API to shorten URL's",
-  url: "https://MSanjaySharma.io",
+  url: "https://MSanjaySharma.github.io",
   baseUrl: "/URL-SHORTENER/",
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
