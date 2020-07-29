@@ -14,6 +14,8 @@ Source of URL SHORTENER Docs
 
 Open the [DOCS](https://msanjaysharma.github.io/URL-SHORTENER) to try Url Shortener yourself.
 
+![URL-SHORTENER-API](https://user-images.githubusercontent.com/65958268/88838479-3be1c300-d1f7-11ea-95d0-5b2ce0cab114.png)
+
 Contribute to Docs
 
 [![Docs](https://img.shields.io/badge/Contribute-Docs-blue?style=flat&logo=github)](https://github.com/MSanjaySharma/DOCS/tree/master/URL-SHORTENER)
