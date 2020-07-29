@@ -4,7 +4,7 @@ Source of various Docs built on Docusaurus
 
 ### API DOCS
 
-URL SHORTENER - [DOCS](https://github.com/MSanjaySharma/URL-SHORTENER/docs)
+URL SHORTENER - [DOCS](https://github.com/MSanjaySharma/DOCS/tree/master/URL-SHORTENER)
 
 ---
 
